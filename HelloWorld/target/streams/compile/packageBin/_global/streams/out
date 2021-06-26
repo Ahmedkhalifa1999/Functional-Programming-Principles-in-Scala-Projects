@@ -1,0 +1,13 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\ahmed\Desktop\HelloWorld\target\scala-2.13\helloworld_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\ahmed\Desktop\HelloWorld\target\scala-2.13\classes\example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example\Example$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\ahmed\Desktop\HelloWorld\target\scala-2.13\classes\example\Example$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example\Example$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\ahmed\Desktop\HelloWorld\target\scala-2.13\classes\example\Example$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example\Example.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\ahmed\Desktop\HelloWorld\target\scala-2.13\classes\example\Example.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HelloWold.sc[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\ahmed\Desktop\HelloWorld\target\scala-2.13\classes\HelloWold.sc[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
